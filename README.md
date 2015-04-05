@@ -5,4 +5,4 @@ Christian's last commit (Apr 4 2015)
 
 Project was in collaberation with Defense Research of Canada. 
 
-Team DRDC2: Tingcheng Cui, Christian Sangle, Chong Wang
+Team DRDC2: Tingcheng Cui, Christian Sangle, Chong Wang.
