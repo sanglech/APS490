@@ -1,0 +1,77 @@
+Marine Assault Troop With Flame Thrower
+
+Extremely low polygonal animated model of marine assault troop.
+
+Body has only 218 polygons and 202 vertexes.
+Weapon 131 polygons and 140 vertexes.
+
+Rig/skeleton include only 20 bones. Each mesh vertex have maximum 2 bones influence.
+
+4 different colors body textures, in TIF file format, 256x256 px.
+
+Character has 49 animations.
+
+All these make this animated character prefect to I-pone games and prototypes of any kind.
+
+Animations preview: http://youtu.be/TnLZecRh8bA
+
+Animations timing list:
+
+1) MFT_Butt_kick: 0 - 25 fr.,
+ 2) MFT_COMBAT_mode_Standing: 26 - 76 fr.,
+ 3) MFT_Fire_Flame_Waving_standing: 81 - 121 fr.,
+ 4) MFT_Fire_standing: 126 - 148 fr.,
+ 5) MFT_Fire_UP_standing: 153 - 175 fr.,
+ 6) MFT_Grenade_throw: 180 - 220 fr.,
+ 7) MFT_Moving_left: 221 - 241 fr.,
+ 8) MFT_Moving_right: 242 - 262 fr.,
+ 9) MFT_Pointing_standing: 267 - 407 fr.,
+ 10) MFT_Knocked_backward: 412 - 453 fr.,
+ 11) MFT_Down_back: 454 - 494 fr.,
+ 12) MFT_Recover_from_knocked_backward: 495 - 535 fr.,
+ 13) MFT_Knocked_forward: 536 - 564 fr.,
+ 14) MFT_Down_forward: 565 - 605 fr.,
+ 15) MFT_Recover_from_knocked_forward: 606 - 638 fr.,
+ 16) MFT_From_standing_to_squat: 639 - 664 fr.,
+ 17) MFT_COMBAT_mode_Squat: 665 - 715 fr.,
+ 18) MFT_Fire_squat: 720 - 750 fr.,
+ 19) MFT_Fire_UP_squat: 755 - 785 fr.,
+ 20) MFT_LookingAround_Squat: 790 - 920 fr.,
+ 21) MFT_From_squat_to_standing: 921 - 947 fr.,
+ 22) MFT_From_standing_to_layDown: 948 - 994 fr.,
+ 23) MFT_FromLaying_toSquat: 995 - 1035 fr.,
+ 24) MFT_FromSquat_toLaying: 1036 - 1076 fr.,
+ 25) MFT_COMBAT_mode_layingFire: 1077 - 1127 fr.,
+ 26) MFT_From_Laying_to_Standing: 1128 - 1164 fr.,
+ 27) MFT_Climbing_ladder_down: 1169 - 1209 fr.,
+ 28) MFT_Climbing_ladder_up: 1214 - 1254 fr.,
+ 29) MFT_Climbing_rope: 1259 - 1299 fr.,
+ 30) MFT_Climbing_wall_idle: 1304 - 1379 fr.,
+ 31) MFT_climbing_wall_left: 1384 - 1409 fr.,
+ 32) MFT_climbing_wall_right: 1414 - 1439 fr.,
+ 33) MFT_Cautious_walkOrFireStright: 1444 - 1480 fr.,
+ 34) MFT_Fire_Runing: 1485 - 1507 fr.,
+ 35) MFT_Fire_UP_Runing: 1512 - 1534 fr.,
+ 36) MFT_Fire_UP_walking: 1539 - 1575 fr.,
+ 37) MFT_Jump: 1580 - 1626 fr.,
+ 38) MFT_Run: 1631 - 1653 fr.,
+ 39) MFT_Walk_flame_waving: 1658 - 1694 fr.,
+ 40) MFT_Walking: 1699 - 1735 fr.,
+ 41) MFT_Walking_backFire: 1740 - 1776 fr.,
+ 42) MFT_Walking_backFire_UP: 1781 - 1817 fr.,
+ 43) MFT_Daying_lying: 1822 - 1837 fr.,
+ 44) MFT_Daying_on_back: 1842 - 1880 fr.,
+ 45) MFT_Daying_on_belt: 1885 - 1992 fr.,
+ 46) MFT_Daying_squat: 1997 - 2030 fr.,
+ 47) MFT_Die_knocked_backward: 2035 - 2052 fr.,
+ 48) MFT_Die_knocked_forward: 2057 - 2074 fr.,
+ 49) MFT_IDLE: 2079 - 2179 fr.,
+
+
+
+If you have questions, please mail me: mr.necturus@gmail.com
+
+
+low polygonal model animated soldier, video game, simulation, war, rts, mmo, i-phone character military, army, prototype, male, marine assault troop, squat, special forces, Unity, flame thrower,
+
+

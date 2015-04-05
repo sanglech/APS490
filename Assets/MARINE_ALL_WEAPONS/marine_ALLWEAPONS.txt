@@ -1,0 +1,182 @@
+Marine Assault Troop Pack
+
+27.11.2013 v.1.1 One more marine character with flame thrower was added. 
+
+Extremely low polygonal animated model of marine assault troop.
+Can be imported and Used with Unity 4 Mechanim.
+
+Pack contain 3 + 1 characters assets with different weapons and one asset where 3 animations types and weapons combined together.
+
+Body has only 218 polygons and 202 vertexes.
+Rifle 61 polygons and  54 vertexes.
+Gun 29 polygons and 30 vertexes.
+Rocket Gun 86 polygons and 90 vertexes.
+Flame thrower 131 polygons and 14 vertexes
+
+Rig/skeleton include only 20 bones. Each mesh vertex have maximum 2 bones influence.
+
+4 different colors body textures, in TIF file format, 256x256 px.
+
+Character has 147 animations.
+
+All these make this animated character prefect to I-pone games and prototypes of any kind.
+
+Here you can see animations preview: http://youtu.be/CPNuSs0B_vw
+Flame thrower preview: http://youtu.be/TnLZecRh8bA
+
+Animations timing list:
+
+ 1) MR_Combat_mode: 0 - 50 fr.,
+ 2) MR_Butt_kick: 51 - 76 fr.,
+ 3) MR_FireReady_standing: 77 - 87 fr.,
+ 4) MR_Pointing_standing: 88 - 228 fr.,
+ 5) MR_Fire_standing: 229 - 269 fr.,
+ 6) MR_Reload_standing: 270 - 345 fr.,
+ 7) MR_From_standing_to_layDown: 346 - 392 fr.,
+ 8) MR_Fire_lying: 393 - 408 fr.,
+ 9) MR_Daying_lying: 409 - 424 fr.,
+ 10) MR_From_Laying_to_Standing: 425 - 461 fr.,
+ 11) MR_From_standing_to_squat: 462 - 487 fr.,
+ 12) MR_FromSquat_toLaying: 488 - 528 fr.,
+ 13) MR_FromLaying_toSquat: 529 - 569 fr.,
+ 14) MR_LookingAround_Squat: 570 - 700 fr.,
+ 15) MR_FireReady_squat: 701 - 716 fr.,
+ 16) MR_Fire_squat: 717 - 729 fr.,
+ 17) MR_Reload_squat: 730 - 803 fr.,
+ 18) MR_Daying_squat: 804 - 837 fr.,
+ 19) MR_From_squat_to_standing: 838 - 864 fr.,
+ 20) MR_Grenade_throw: 865 - 905 fr.,
+ 21) MR_Moving_left: 906 - 926 fr.,
+ 22) MR_Moving_right: 927 - 947 fr.,
+ 23) MR_Jump: 948 - 994 fr.,
+ 24) MR_Run: 995 - 1017 fr.,
+ 25) MR_Walking: 1018 - 1054 fr.,
+ 26) MR_Walking_back: 1055 - 1090 fr.,
+ 27) MR_Daying_on_back: 1091 - 1129 fr.,
+ 28) MR_Daying_on_belt: 1130 - 1237 fr.,
+ 29) MR_Fire_Runing: 1238 - 1260 fr.,
+ 30) MR_Fire_walking: 1261 - 1297 fr.,
+ 31) MR_Climbing_wall_idle: 1298 - 1373 fr.,
+ 32) MR_climbing_wall_left: 1374 - 1399 fr.,
+ 33) MR_climbing_wall_right: 1400 - 1425 fr.,
+ 34) MR_Climbing_rope: 1426 - 1466 fr.,
+ 35) MR_Climbing_ladder_up: 1467 - 1507 fr.,
+ 36) MR_Climbing_ladder_down: 1508 - 1548 fr.,
+ 37) MR_Die_knocked_forward: 1553 - 1570 fr.,
+ 38) MR_Die_knocked_backward: 1575 - 1592 fr.,
+ 39) MR_Knocked_backward: 1597 - 1638 fr.,
+ 40) MR_Down_back: 1643 - 1683 fr.,
+ 41) MR_Recover_from_knocked_backward: 1688 - 1738 fr.,
+ 42) MR_Knocked_forward: 1743 - 1771 fr.,
+ 43) MR_Down_forward: 1776 - 1816 fr.,
+ 44) MR_Recover_from_knocked_forward: 1821 - 1853 fr.,
+ 45) MR_IDLE: 1858 - 1958 fr.,
+ 46) MG_Combat_mode_staynig: 1963 - 2013 fr.,
+ 47) MG_Puting_gun_back: 2014 - 2054 fr.,
+ 48) MG_IDLE: 2055 - 2105 fr.,
+ 49) MG_Taking_gun_out: 2106 - 2144 fr.,
+ 50) MG_LeftFoot_Kick: 2145 - 2175 fr.,
+ 51) MG_RightFoot_kick: 2176 - 2206 fr.,
+ 52) MG_Looking_around_staying: 2211 - 2296 fr.,
+ 53) MG_OneHand_shooting_staying: 2297 - 2332 fr.,
+ 54) MG_Reload_gun_staying: 2333 - 2403 fr.,
+ 55) MG_TwoHands_pointing_staying: 2404 - 2524 fr.,
+ 56) MG_TwoHhands_shooting_staying: 2525 - 2565 fr.,
+ 57) MG_FromStaying_toSquat_B: 2570 - 2615 fr.,
+ 58) MG_Reload_twoHands_squat: 2616 - 2686 fr.,
+ 59) MG_TwoHands_shooting_squat: 2687 - 2722 fr.,
+ 60) MG_TwoHands_Squat_pointing: 2723 - 2843 fr.,
+ 61) MG_FromSquatB_toStaying: 2844 - 2879 fr.,
+ 62) MG_FromStand_toSquat_A: 2880 - 2910 fr.,
+ 63) MG_Combat_mode_squat: 2911 - 2961 fr.,
+ 64) MG_OneHand_lookingAround_Squat: 2962 - 3047 fr.,
+ 65) MG_OneHand_shooting_Squat: 3048 - 3083 fr.,
+ 66) MG_Reload_oneHand_squat: 3084 - 3154 fr.,
+ 67) MG_Die_squat: 3155 - 3188 fr.,
+ 68) MG_FromSquat_toBelly: 3193 - 3230 fr.,
+ 69) MG_FromBelly_toSquat: 3231 - 3269 fr.,
+ 70) MG_FromSquatA_toStaing: 3270 - 3305 fr.,
+ 71) MG_FromStand_toBelly: 3306 - 3348 fr.,
+ 72) MG_Combat_mode_belly: 3349 - 3399 fr.,
+ 73) MG_TwoHand_shooting_belly: 3404 - 3426 fr.,
+ 74) MG_Die_belly: 3431 - 3447 fr.,
+ 75) MG_FromBelly_toStand: 3452 - 3490 fr.,
+ 76) MG_Die_knocked_backward: 3491 - 3508 fr.,
+ 77) MG_Die_knocked_forward: 3513 - 3530 fr.,
+ 78) MG_Die_on_back: 3535 - 3573 fr.,
+ 79) MG_Die_on_belt: 3578 - 3685 fr.,
+ 80) MG_Knocked_backward: 3690 - 3730 fr.,
+ 81) MG_Down_back: 3731 - 3771 fr.,
+ 82) MG_Recover_from_knocked_backward: 3772 - 3822 fr.,
+ 83) MG_Knocked_forward: 3823 - 3851 fr.,
+ 84) MG_Down_forward: 3852 - 3892 fr.,
+ 85) MG_Recover_from_knocked_forward: 3893 - 3925 fr.,
+ 86) MG_Casual_walk: 3930 - 3966 fr.,
+ 87) MG_Cautious_walk: 3971 - 4011 fr.,
+ 88) MG_Combat_run: 4016 - 4042 fr.,
+ 89) MG_run: 4047 - 4073 fr.,
+ 90) MG_Jump: 4078 - 4124 fr.,
+ 91) MG_Walking_back: 4129 - 4164 fr.,
+ 92) MG_Fire_run: 4169 - 4195 fr.,
+ 93) MG_Fire_walk: 4200 - 4240 fr.,
+ 94) MG_Fire_walking_back: 4245 - 4280 fr.,
+ 95) MG_Moving_left: 4285 - 4305 fr.,
+ 96) MG_Moving_right: 4306 - 4326 fr.,
+ 97) MRG_COMBAT_mode_Standing: 4331 - 4381 fr.,
+ 98) MRG_Butt_kick: 4382 - 4407 fr.,
+ 99) MRG_Knocked_backward: 4408 - 4449 fr.,
+ 100) MRG_Down_back: 4450 - 4490 fr.,
+ 101) MRG_Recover_from_knocked_backward: 4491 - 4531 fr.,
+ 102) MRG_Knocked_forward: 4532 - 4560 fr.,
+ 103) MRG_Down_forward: 4561 - 4601 fr.,
+ 104) MRG_Recover_from_knocked_forward: 4602 - 4634 fr.,
+ 105) MRG_Grenade_throw: 4635 - 4675 fr.,
+ 106) MRG_FireReady_standing: 4676 - 4691 fr.,
+ 107) MRG_Pointing_standing: 4692 - 4832 fr.,
+ 108) MRG_Fire_standing: 4833 - 4855 fr.,
+ 109) MRG_Reload_standing: 4856 - 4911 fr.,
+ 110) MRG_From_standing_to_layDown: 4916 - 4962 fr.,
+ 111) MRG_COMBAT_mode_laying: 4963 - 5013 fr.,
+ 112) MRG_Fire_lying: 5014 - 5029 fr.,
+ 113) MRG_Daying_lying: 5030 - 5045 fr.,
+ 114) MRG_From_Laying_to_Standing: 5050 - 5086 fr.,
+ 115) MRG_From_standing_to_squat: 5087 - 5112 fr.,
+ 116) MRG_COMBAT_mode_Squat: 5113 - 5163 fr.,
+ 117) MRG_FromSquat_toLaying: 5164 - 5204 fr.,
+ 118) MRG_FromLaying_toSquat: 5205 - 5245 fr.,
+ 119) MRG_LookingAround_Squat: 5246 - 5376 fr.,
+ 120) MRG_FireReady_squat: 5377 - 5387 fr.,
+ 121) MRG_Fire_squat: 5388 - 5410 fr.,
+ 122) MRG_Reload_squat: 5411 - 5466 fr.,
+ 123) MRG_Daying_squat: 5471 - 5504 fr.,
+ 124) MRG_From_squat_to_standing: 5509 - 5535 fr.,
+ 125) MRG_Moving_left: 5536 - 5556 fr.,
+ 126) MRG_Moving_right: 5557 - 5577 fr.,
+ 127) MRG_Walking: 5582 - 5618 fr.,
+ 128) MGR_Cautious_walk: 5623 - 5659 fr.,
+ 129) MRG_Fire_walking: 5664 - 5700 fr.,
+ 130) MRG_Walking_back: 5705 - 5740 fr.,
+ 131) MRG_Fire_Walking_back: 5745 - 5781 fr.,
+ 132) MRG_Run: 5786 - 5808 fr.,
+ 133) MRG_Jump: 5813 - 5859 fr.,
+ 134) MRG_Fire_Runing: 5864 - 5886 fr.,
+ 135) MRG_Climbing_ladder_down: 5891 - 5931 fr.,
+ 136) MRG_Climbing_ladder_up: 5936 - 5976 fr.,
+ 137) MRG_Climbing_rope: 5981 - 6021 fr.,
+ 138) MRG_Climbing_wall_idle: 6026 - 6101 fr.,
+ 139) MRG_climbing_wall_left: 6106 - 6131 fr.,
+ 140) MRG_climbing_wall_right: 6136 - 6161 fr.,
+ 141) MRG_Daying_on_back: 6166 - 6204 fr.,
+ 142) MRG_Daying_on_belt: 6209 - 6316 fr.,
+ 143) MRG_Die_knocked_backward: 6321 - 6338 fr.,
+ 144) MRG_Die_knocked_forward: 6343 - 6360 fr.,
+ 145) MRG_IDLE: 6365 - 6465 fr.,
+ 146) MRG_Puting_RocketGun_out: 6470 - 6500 fr.,
+ 147) MRG_Puting_RocketGun_back: 6501 - 6531 fr.,
+
+If you have questions, please mail me: mr.necturus@gmail.com
+
+
+low polygonal model animated soldier, video game, simulation, war, rts, mmo, i-phone character military, army, prototype, male, marine assault troop, squat, special forces, Unity, rocket launcher, bazooka, rockrt, grenade, rifle, m-16, gun, pistol
+
+
