@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 581bda0af626b4f58b94ff36f66635b8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Joint.2.9
+    100002: de.6
+    100004: Joint.2.8
+    100006: de.5
+    100008: Root.3
+    100010: Joint.2.7
+    100012: de.4
+    100014: Joint.2.6
+    100016: de.3
+    100018: Joint.2.5
+    100020: de.2
+    100022: Joint.2.4
+    100024: de
+    100026: Root.2
+    100028: Joint.2.3
+    100030: Joint.1.3
+    100032: Joint.2.2
+    100034: Joint.1.2
+    100036: Root
+    100038: Null.2
+    100040: lungs.2
+    100042: Joint.4
+    100044: Joint.3
+    100046: Joint.2
+    100048: Joint.1
+    100050: Root t
+    100052: Null
+    100054: trachea
+    100056: //RootNode
+    400000: Joint.2.9
+    400002: de.6
+    400004: Joint.2.8
+    400006: de.5
+    400008: Root.3
+    400010: Joint.2.7
+    400012: de.4
+    400014: Joint.2.6
+    400016: de.3
+    400018: Joint.2.5
+    400020: de.2
+    400022: Joint.2.4
+    400024: de
+    400026: Root.2
+    400028: Joint.2.3
+    400030: Joint.1.3
+    400032: Joint.2.2
+    400034: Joint.1.2
+    400036: Root
+    400038: Null.2
+    400040: lungs.2
+    400042: Joint.4
+    400044: Joint.3
+    400046: Joint.2
+    400048: Joint.1
+    400050: Root t
+    400052: Null
+    400054: trachea
+    400056: //RootNode
+    4300000: trachea
+    4300002: lungs.2
+    7400000: C4D Animation Take
+    11100000: //RootNode
+    13700000: lungs.2
+    13700002: trachea
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 34.0000038
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lungs.2
+        weight: 1
+      - path: lungs.2/Null.2
+        weight: 1
+      - path: lungs.2/Root
+        weight: 1
+      - path: lungs.2/Root/Joint.1.2
+        weight: 1
+      - path: lungs.2/Root/Joint.1.2/Joint.2.2
+        weight: 1
+      - path: lungs.2/Root/Joint.1.3
+        weight: 1
+      - path: lungs.2/Root/Joint.1.3/Joint.2.3
+        weight: 1
+      - path: lungs.2/Root.2
+        weight: 1
+      - path: lungs.2/Root.2/de
+        weight: 1
+      - path: lungs.2/Root.2/de/Joint.2.4
+        weight: 1
+      - path: lungs.2/Root.2/de.2
+        weight: 1
+      - path: lungs.2/Root.2/de.2/Joint.2.5
+        weight: 1
+      - path: lungs.2/Root.2/de.3
+        weight: 1
+      - path: lungs.2/Root.2/de.3/Joint.2.6
+        weight: 1
+      - path: lungs.2/Root.2/de.4
+        weight: 1
+      - path: lungs.2/Root.2/de.4/Joint.2.7
+        weight: 1
+      - path: lungs.2/Root.3
+        weight: 1
+      - path: lungs.2/Root.3/de.5
+        weight: 1
+      - path: lungs.2/Root.3/de.5/Joint.2.8
+        weight: 1
+      - path: lungs.2/Root.3/de.6
+        weight: 1
+      - path: lungs.2/Root.3/de.6/Joint.2.9
+        weight: 1
+      - path: trachea
+        weight: 1
+      - path: trachea/Null
+        weight: 1
+      - path: trachea/Root t
+        weight: 1
+      - path: trachea/Root t/Joint.1
+        weight: 1
+      - path: trachea/Root t/Joint.1/Joint.2
+        weight: 1
+      - path: trachea/Root t/Joint.1/Joint.2/Joint.3
+        weight: 1
+      - path: trachea/Root t/Joint.1/Joint.2/Joint.3/Joint.4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
