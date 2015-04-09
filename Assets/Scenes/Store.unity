@@ -96,6 +96,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 227786274}
   - 114: {fileID: 227786273}
+  - 114: {fileID: 227786275}
   m_Layer: 0
   m_Name: StoreManager
   m_TagString: Untagged
@@ -126,6 +127,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
+--- !u!114 &227786275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 227786272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b156fd573dcad4523a295a6e5ead75a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &309645050
 Prefab:
   m_ObjectHideFlags: 0
@@ -751,7 +763,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 227786273}
+      - m_Target: {fileID: 227786275}
         m_MethodName: startMenu
         m_Mode: 1
         m_Arguments:
@@ -962,7 +974,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1096887787}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68c17925b906141b1845898e4a8d787a, type: 3}
+  m_Script: {fileID: 11500000, guid: 8aaf6aed6a7664bc48d2370b484e81fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   score: 0
@@ -1678,7 +1690,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1886835043}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 111c960a5a0e0459dbc9b8cb98d0c7bc, type: 3}
+  m_Script: {fileID: 11500000, guid: eab2444d9e41a45ffb32e87408d9a138, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2067998885
