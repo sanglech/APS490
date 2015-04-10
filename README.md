@@ -8,11 +8,17 @@ Project was in collaberation with Defense Research of Canada.
 Team DRDC2: Tingcheng Cui, Christian Sangle, Chong Wang.
 
 Building the Project with Unity
+
 1) Download and install Unity 5 Personal Edition (http://unity3d.com/get-unity).
+
 2) Start Unity and select the option "Open Other"
+
 3) Navigate to the root directory of the project (Should see Assets and Project Settings) and select the option "Select folder".
+
 4) Unity will begin importing the project into the environment (~10min on first load).
+
 5) In the Unity Environment go to File> "Build Settings".
+
 6) Ensure that there are 8 "scenes" selected in the following order
     0. menu
     1. MainGame
