@@ -19,7 +19,7 @@ Building the Project with Unity
 
 5) In the Unity Environment go to File> "Build Settings".
 
-6) Ensure that there are 8 "scenes" selected in the following order
+6) Ensure that there are 8 "scenes" selected in the following order: 
     0. menu
     1. MainGame
     2. Attention Control
