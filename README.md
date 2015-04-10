@@ -45,7 +45,7 @@ Building the Project with Unity
     
  8) Navigate back to the "Build Settings" window and select "Build". Create a new folder where yopur build will be saved, 
     and save it in the new folder.
-    WARNING: The first build, this will take between 2-3 hours for it to build. All builds after, should take ~5-10min.
+    WARNING: The first build, this will take between 1-3 hours for it to build. All builds after, should take ~5-10min.
      
      8a) (If building for iOS on a Mac) Navigate to location of the iOS build in Finder, and there will be an Xcode project 
      that must be run. Plug in an iOS device and Build + run the project in Xcode. App should be installed on the device.
