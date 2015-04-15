@@ -3,7 +3,7 @@ Will store APS490 project files here
 Christian's first commit (Jan 13 2015)
 Christian's last commit (Apr 9 2015)
 
-Project was in collaberation with Defense Research of Canada. 
+Project was in collaberation with Defence Research and Development Canada. 
 
 Team DRDC2: Tingcheng Cui, Christian Sangle, Chong Wang.
 
